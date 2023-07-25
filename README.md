@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Debojyoti</h1>
 <h3 align="center">A passionate coder from India</h3>
-<img align="right" widht=250 alt="coding" src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif"
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jd3b&label=Profile%20views&color=0e75b6&style=flat" alt="jd3b" /> </p>
 
 - 🌱 I’m currently learning **ReactJs,Flutter**
